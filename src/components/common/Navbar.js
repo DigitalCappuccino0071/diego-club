@@ -246,22 +246,22 @@ const Navbar = ({ bgcolor }) => {
                     <span className="md:block hidden">
                         {" "}
                         <Link
-                            href="#"
+                            href="tel:9090353516"
                             className=" w-fit shadow-md flex space-x-2 px-3 py-1 rounded-full items-center justify-between bg-white"
                         >
                             <img src="/home/call.png" alt="" />
-                            <span className="font-semibold"> +91-9876543219</span>
+                            <span className="font-semibold"> +91-9090353516</span>
                         </Link>
                     </span>
                 </div>
                 <div className=" md:hidden block">
                     {" "}
                     <Link
-                        href="#"
+                        href="tel:9090353516"
                         className=" shadow-md flex space-x-2 px-3 py-3 rounded-full items-center justify-between bg-white w-[180px]"
                     >
                         <img src="/home/call.png" alt="" className="w-6 h-6" />
-                        <span className="font-semibold"> +91-9876543219</span>
+                        <span className="font-semibold"> +91-9090353516</span>
                     </Link>
                 </div>
                 {/* <div className="hamburger" onClick={handleClick}>
