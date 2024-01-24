@@ -53,7 +53,7 @@ const AboutUs = () => {
                     <TitleText title="" />
                     <div className="py-4">
                         <p className=" w-full text-[1.1rem] text-textcolor text-justify  tracking-tighter font-text pb-2">
-                        Greetings, party enthusiasts! Welcome to Diego Club for all things fun in Gurugram.  Diego Club in Gurgaon is the ultimate guide to the best in entertainment. Immerse yourself in the best social scene of our city. Join us on this thrilling journey as we continue to present the most sensational gatherings or vibrant nightlife in Gurgaon. Whether you're a seasoned partygoer or someone looking to dip their toes into the city's vibrant social scene, Diego Club is your passport to the very best. Stay tuned for updates on the latest events and the most exclusive party offers.
+                        Greetings, party enthusiasts! Welcome to Diego Club for all things fun in Gurugram.  Diego Club in Gurgaon is the ultimate guide to the best in entertainment. Immerse yourself in the best social scene of our city. Join us on this thrilling journey as we continue to present the most sensational gatherings or vibrant nightlife in Gurgaon. Whether you&apos;re a seasoned partygoer or someone looking to dip their toes into the city&apos;s vibrant social scene, Diego Club is your passport to the very best. Stay tuned for updates on the latest events and the most exclusive party offers.
 
                             
 

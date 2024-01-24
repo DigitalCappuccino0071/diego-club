@@ -52,7 +52,7 @@ const ServiceText = () => {
                     <TitleText title="Cheers to Our Exceptional Service Excellence!" />
                     <div className="py-8">
                         <p className=" w-full text-[1.1rem] text-textcolor text-justify  tracking-tighter font-text pb-2">
-                        Team Diego takes pride in providing an exclusive party space where you and your guests can go wild and create memories to remember for a lifetime. Whether it's a lively birthday bash or a professional corporate gathering, we customize your parties to suit your specific needs, ensuring a fantastic experience for everyone!Forget about the decorations, or entertainment; we've got it all covered. Club Diego’s goal is to let you and your guests focus on having a blast while we handle the nitty-gritties of party details. At Diego, we're dedicated to ensuring your celebration is fun and carefree. Let’s book an amazing party space for you!                        </p>
+                        Team Diego takes pride in providing an exclusive party space where you and your guests can go wild and create memories to remember for a lifetime. Whether it&apos;s a lively birthday bash or a professional corporate gathering, we customize your parties to suit your specific needs, ensuring a fantastic experience for everyone!Forget about the decorations, or entertainment; we&apos;ve got it all covered. Club Diego’s goal is to let you and your guests focus on having a blast while we handle the nitty-gritties of party details. At Diego, we&apos;re dedicated to ensuring your celebration is fun and carefree. Let’s book an amazing party space for you!                        </p>
 
                         {/* <SectionButton 
                         title="Know More !" 
