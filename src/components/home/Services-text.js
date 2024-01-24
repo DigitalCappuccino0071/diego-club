@@ -48,13 +48,11 @@ const ServiceText = () => {
                     className="rounded-xl md:h-[420px] h-[300px]  w-full object-cover md:order-2"
                 />
                 <div className="">
-                    <UnderlineText title="Our Services" />
+                    <UnderlineText title="" />
                     <TitleText title="Cheers to Our Exceptional Service Excellence!" />
                     <div className="py-8">
                         <p className=" w-full text-[1.1rem] text-textcolor text-justify  tracking-tighter font-text pb-2">
-                        Gurugram Party Offers is dedicated to creating unforgettable moments for all your celebrations. We take pride in providing exclusive party spaces where you and your guests can relax and have a great time. Whether it&apos;s a birthday bash or a corporate get-together, we custom-tailor our parties to meet your specific requirements, ensuring a fantastic experience for everyone involved.
-
-What sets us apart is our commitment to ensuring you have a full 3 hours of non-stop enjoyment. We believe in making your celebration memorable and hassle-free. You won&apos;t need to worry about the logistics, decorations, or entertainment; we take care of it all. Our goal is to let you and your guests focus on having a blast while we handle the rest.                        </p>
+                        Team Diego takes pride in providing an exclusive party space where you and your guests can go wild and create memories to remember for a lifetime. Whether it&apos;s a lively birthday bash or a professional corporate gathering, we customize your parties to suit your specific needs, ensuring a fantastic experience for everyone!Forget about the decorations, or entertainment; we&apos;ve got it all covered. Club Diego’s goal is to let you and your guests focus on having a blast while we handle the nitty-gritties of party details. At Diego, we&apos;re dedicated to ensuring your celebration is fun and carefree. Let’s book an amazing party space for you!                        </p>
 
                         {/* <SectionButton 
                         title="Know More !" 

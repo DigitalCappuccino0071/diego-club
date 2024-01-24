@@ -164,10 +164,10 @@ const BannerSection = () => {
                                 initial="initial"
                                 animate="animate"
                             >
-                                Step into a World of Celebration
+                                Welcome to Diego Club in Gurgaon
                             </motion.h2>
                             <h3 className=" text-base pt-6 pb-0">
-                                Welcome to Gurgaon Party offers , where we take pride in offering you the finest party venues in Gurugram. Whether you&apos;re planning an intimate gathering or a grand gala, our carefully selected venues guarantee a celebration that&apos;s nothing short of spectacular.<br /> Our mission is to ensure that your event is a memorable experience, regardless of its size or scope. We&apos;ve scoured Gurugram to handpick venues that not only meet but exceed your expectations.</h3>
+                             One of the top in the list of nightclubs in Gurgaon, where we take immense pride in presenting you with the most exceptional parties in Gurugram. Whether you want an intimate gathering or a grand gala, Diego is the best club in Gurgaon which promises a celebration that is nothing short of spectacular.</h3>
                         </div>
                         <div className="space-y-6">
                             <div className="pt-8">
