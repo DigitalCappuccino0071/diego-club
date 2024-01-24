@@ -30,33 +30,33 @@ const Services = () => {
             id: 1,
             imgSrc: "../home/service-imagetwo.png",
             title:"Bachelors Party",
-            subtxt:"Bid farewell to the single life with an epic bachelor's party. Our venue ensures a night of fun and camaraderie with your closest friends.",
+            subtxt:"Celebrate your transition to a new chapter of life with an unforgettable bachelor's party.  It's the perfect way to bid farewell to singlehood.",
         },
         {
             id: 2,
             imgSrc: "../home/service-imagethree.png",
             title:"Freshers Party",
-            subtxt:"Welcome new faces and build friendships with a freshers' party. It's the perfect way to kickstart the academic year or a new phase in life.",
+            subtxt:"Celebrate the start of one’s journey for a new phase in life and create bonds that will last a lifetime.",
         },
         {
             id: 3,
             imgSrc: "../home/corporate.png",
             title:"Corporate Party",
-            subtxt:"Celebrate success and foster team bonding with our corporate party packages. Whether it's a year-end bash or a milestone achievement, we've got you covered.",
+            subtxt:"Build team bonding, achieve milestones and celebrate success together. We’re here for you to have memorable experiences.",
 
         },
         {
             id: 4,
             imgSrc: "../home/birthday.png",
             title:"Birthday Party",
-            subtxt:"Make memories that last a lifetime with a birthday celebration at our venue. From kids' parties to milestone birthdays, we create the perfect setting for your special day.",
+            subtxt:"From kids parties to milestone birthdays, we offer the best to celebrate one’s birthday and make memories.",
         },
        
         {
             id: 5,
             imgSrc: "../home/service-imageone.png",
             title:"Anniversary Party",
-            subtxt:"Cherish love and togetherness with an unforgettable anniversary celebration. Our venue sets the stage for romantic moments and joyful reunions.",
+            subtxt:"Create memorable moments with your partner and reflect on the journey of togetherness and commitment.",
 
         },
        

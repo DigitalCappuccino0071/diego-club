@@ -50,19 +50,20 @@ const AboutUs = () => {
                 />
                 <div className="">
                     <UnderlineText title="About Us" />
-                    <TitleText title="Sip Back and Learn About Us" />
+                    <TitleText title="" />
                     <div className="py-4">
                         <p className=" w-full text-[1.1rem] text-textcolor text-justify  tracking-tighter font-text pb-2">
-                            Hey there, partygoers and event enthusiasts! Welcome to the ultimate hub for all things fun in Gurugram. We are your go-to source for discovering, celebrating, and experiencing the hottest parties and events in town.
+                        Greetings, party enthusiasts! Welcome to Diego Club for all things fun in Gurugram.  Diego Club in Gurgaon is the ultimate guide to the best in entertainment. Immerse yourself in the best social scene of our city. Join us on this thrilling journey as we continue to present the most sensational gatherings or vibrant nightlife in Gurgaon. Whether you're a seasoned partygoer or someone looking to dip their toes into the city's vibrant social scene, Diego Club is your passport to the very best. Stay tuned for updates on the latest events and the most exclusive party offers.
 
-                            Party enthusiasts and event seekers! We&apos;re thrilled to introduce you to the premier destination for all things entertainment in Gurugram. You&apos;ve just discovered your ultimate resource for uncovering, indulging in, and immersing yourself in the hottest parties and events in our city.
+                            
 
 
                         </p>
 
                         <p className=" w-full text-[1.1rem] text-textcolor text-justify tracking-tighter  font-text pb-10">
 
-                            Our story is one marked by an unwavering commitment to Gurugram&apos;s bustling nightlife and amazing social scene. We are a collective of like-minded individuals who share your fervor for seizing every opportunity for joy. [Gurgaon Party Offers] was born as a spark of inspiration among friends determined to unite people through the shared delight of celebration. It has since blossomed into the pulsating heart of Gurugram&apos;s social milieu.
+                        Book your table for the most exciting parties and events in town and let the celebration begin!
+
 
 
                         </p>

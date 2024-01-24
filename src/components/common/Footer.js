@@ -7,25 +7,11 @@ import { FaXTwitter } from "react-icons/fa6";
 const Footer = () => {
     const data = [
         {
-            id: 1,
-            icon: <FaFacebookF />,
-            href: "#",
-        },
-        {
             id: 2,
             icon: <FaInstagram />,
-            href: "#",
+            href: "https://www.instagram.com/diegoclubgurgaon/",
         },
-        {
-            id: 3,
-            icon: <FaLinkedin />,
-            href: "#",
-        },
-        {
-            id: 4,
-            icon: <FaXTwitter />,
-            href: "#",
-        },
+    
     ];
     return (
         <div className="bg-third ">
@@ -48,7 +34,7 @@ const Footer = () => {
 
                                 </p>
                                 <div>
-                                    {/* <ul className="flex space-x-4  pt-3">
+                                    <ul className="flex space-x-4  pt-3">
                                         {data.map((e, i) => (
                                             <li key={i} className="flex space-x-5">
                                                 <Link
@@ -60,9 +46,12 @@ const Footer = () => {
                                                 </Link>
                                             </li>
                                         ))}
-                                    </ul> */}
+                                    </ul>
                                     <p className="text-white font-semibold">
                                        <p className="font-bold  text-lg">Address :</p>  4th Floor, Park, Sco 16-17, near Leisure Valley Road, Sector 29, Gurugram, Haryana 122009
+                                    </p>
+                                    <p className="text-white font-semibold flex space-x-4 items-center pt-5">
+                                       <p className="font-bold  text-lg">Contact Us :</p> +91-9090353516
                                     </p>
                                 </div>
                             </div>

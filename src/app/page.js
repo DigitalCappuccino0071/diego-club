@@ -1,6 +1,7 @@
 
 "use client";
 import Footer from '@/components/common/Footer'
+import Map from '@/components/common/Map';
 import Navbar from '@/components/common/Navbar'
 import AboutUs from '@/components/home/AboutUs'
 import Band from '@/components/home/Band'
@@ -24,6 +25,7 @@ const index = () => {
      <Collaboration/>
      <Gallery/>
      {/* <Form/> */}
+     <Map/>
      <Footer/>
     </div>
   )
