@@ -22,7 +22,7 @@ const index = () => {
      <Services/>
      <ServiceText/>
      <Band/>
-     <Collaboration/>
+     {/* <Collaboration/> */}
      <Gallery/>
      {/* <Form/> */}
      <Map/>
