@@ -51,7 +51,13 @@ const Footer = () => {
                                        <p className="font-bold  text-lg">Address :</p>  4th Floor, Park, Sco 16-17, near Leisure Valley Road, Sector 29, Gurugram, Haryana 122009
                                     </p>
                                     <p className="text-white font-semibold flex space-x-4 items-center pt-5">
-                                       <p className="font-bold  text-lg">Contact Us :</p> +91-9090353516
+                                       <p className="font-bold  text-lg">Contact Us :</p>  <Link
+                            href="tel:9090353516"
+                            className=" w-fit shadow-md flex space-x-2 px-3 py-1 rounded-full items-center justify-between bg-white"
+                        >
+                            <img src="/home/call.png" alt="" />
+                            <span className="font-semibold text-black"> +91-9090353516</span>
+                        </Link>
                                     </p>
                                 </div>
                             </div>
