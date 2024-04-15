@@ -58,8 +58,8 @@ const Footer = () => {
                                         <p className="text-lg font-bold">
                                             Address :
                                         </p>{" "}
-                                        South City I, Leisure Valley Rd, Sector
-                                        29, Gurugram, Haryana 122009
+                                        4th floor, South City I, Leisure Valley
+                                        Rd, Sector 29, Gurugram, Haryana 122009
                                     </p>
                                     <p className="flex items-center pt-5 space-x-4 font-semibold text-white">
                                         <p className="text-lg font-bold">
